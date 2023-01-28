@@ -1,1 +1,12 @@
-# bank
+- [x] Info Saldo
+- [ ] Login
+- [ ] Daftar
+- [ ] Transfer
+  - [x] Tambah Uang
+  - [x] Kurangi Uang
+  - [ ] Cek Apakah rekening ada di database / tidak
+- [ ] Riwayat Transaksi
+- [x] Akun saya
+- [ ] Pembayaran Listrik & PDAM
+- [ ] Rekening Favorit
+
